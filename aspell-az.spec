@@ -1,5 +1,5 @@
 Summary:	Azerbaijani dictionary for aspell
-Summary(pl):	Azerski s≥ownik dla aspella
+Summary(pl.UTF-8):   Azerski s≈Çownik dla aspella
 Name:		aspell-az
 Version:	0.02
 %define	subv	0
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Azerbaijani dictionary (i.e. word list) for aspell.
 
-%description -l pl
-Azerski s≥ownik (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+Azerski s≈Çownik (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-az-%{version}-%{subv}
