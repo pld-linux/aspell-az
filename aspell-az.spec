@@ -1,5 +1,5 @@
 Summary:	Azerbaijani dictionary for aspell
-Summary(pl.UTF-8):   Azerski słownik dla aspella
+Summary(pl.UTF-8):	Azerski słownik dla aspella
 Name:		aspell-az
 Version:	0.02
 %define	subv	0
