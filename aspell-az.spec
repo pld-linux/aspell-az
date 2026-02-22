@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Azerski słownik dla aspella
 Name:		aspell-az
 Version:	0.02
 %define	subv	0
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Text
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/az/aspell6-az-%{version}-%{subv}.tar.bz2
